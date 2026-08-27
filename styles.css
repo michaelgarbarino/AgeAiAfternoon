@@ -7,3 +7,10 @@ h2.anchored {
 
 
 }
+
+code.sourceCode {
+    background-color: #E8E1D8;
+    border: 1px solid black;
+    padding: 2px;
+    border-radius: 4px;
+}
